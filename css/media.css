@@ -1,0 +1,570 @@
+                /*cll*/
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+
+.wraper .naves {
+    margin-left: -269px;
+    margin-top: -2px;
+    
+}
+/*header start*/
+span.navbar-toggler-icon {
+    font-size: 10px;
+}
+
+.wraper ul {
+    width: 323px;
+    height: 172px;
+    justify-content: center;
+}
+.wraper a {
+    color: #f2f2f2 !important;
+}
+.wraper a {
+    font-size: 16px;
+}
+.wraper ul li a {
+    font-size: 14px;
+}
+.header-logo img {
+    width: 60px;
+}
+.wraper button{}
+.header-logo {
+    margin-top: 53px;
+    margin-bottom: 17px;
+    margin-left: 0;
+}
+.header-logo h1 {
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    margin-top: 16px;
+    font-size: 11px
+}
+.header-logo h2 {
+   word-spacing: 0px;
+    letter-spacing: 0px;
+    font-size: 15px;
+}
+.header-logo button {
+     margin-top: 14px;
+    font-size: 8px;
+}
+/*header end*/
+
+/*cook start*/
+.cook-text {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.cook-text h2 {
+    font-size: 16px;
+}
+.cook-text p {
+    font-size: 8px;
+    letter-spacing: 0px;
+    font-family: monospace;
+}
+
+/*cook end*/
+/*test start*/
+.all-text img {
+    width: 20px;
+}
+
+.all-text h1 {
+    font-size: 21px;
+}
+.all-text p {
+    font-size: 11px;
+}
+/*test end*/
+/*plat start*/
+.top-text {
+    margin: 15px;
+    margin-bottom: -16px;
+    padding: 30px 0 15px 0;
+    margin-top: 65px;
+}
+.top-text h1 {
+    font-size: 30px;
+}
+.top-text p {
+    font-size: 20px;
+}
+/*plat end*/
+/*simple start*/
+.simple-all-text h3{
+    font-size: 21px;
+
+}
+.simple-all-text img {
+    width: 17px;
+}
+.simple-all-text p {
+    font-size: 12px;
+}
+/*simple end*/
+
+/*new menu stsrt*/
+.menu-bg {
+    padding-top: 117px;
+    padding-bottom: 145px;
+}
+.menu-pric-item img {
+    width: 55px;
+    margin-top: 11px;
+}
+.menu-pric-item h3 {
+    font-size: 22px;
+}
+.menu-pric-item p {
+    font-size: 12px;
+}
+/*new menu end*/
+/*bookig stsart*/
+.top {
+    display: none;
+}
+.all-input {
+    margin-left: 47px;
+}
+/*bookig end*/
+/*discover starat*/
+.top-img-dis {
+    padding-top: 190px;
+}
+.discover-top-text p {
+    margin-bottom: 0;
+}
+.card.border-0 {
+    margin-top: 18px;
+}
+/*discover end*/
+/*comination start*/
+.cominecation-text p {
+    font-size: 12px;
+}
+.cominecation-text h2 {
+    font-size: 26px;
+}
+.cominecation-text li {
+    height: 30px;
+    width: 31px;
+}
+.cominecation-text i {
+    font-size: 23px;
+}
+/*comination start*/
+/*footer start*/
+.footer-about {
+    margin-bottom: -20px;
+}
+.footer-text h4 {
+    font-size: 20px;
+}
+.footer-text a, p {
+    font-size: 12px;
+}
+/*---------*/
+}/*coll-end*/
+/*---------*/
+
+                /*sm*/
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+
+/*header start*/
+
+.wraper a {
+    color: #f2f2f2 !important;
+}
+.wraper a {
+    font-size: 16px;
+}
+.wraper button{}
+.header-logo {
+     margin-top: 75px;
+    margin-bottom: 115px;
+    margin-left: 0;
+}
+.header-logo h1 {
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    margin-top: 42px;
+    font-size: 21px;
+}
+.header-logo h2 {
+    word-spacing: 0px;
+    letter-spacing: 0px;
+    font-size: 30px;
+}
+.header-logo button {
+    margin-top: 59px;
+    font-size: 21px;
+}
+/*header end*/
+
+/*cook start*/
+.cook-text {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.cook-text h2 {
+    font-size: 26px;
+}
+.cook-text p {
+        font-size: 13px;
+    letter-spacing: 0;
+}
+
+/*cook end*/
+
+/*palat start*/
+.top-text {
+    margin: 15px;
+    margin-bottom: -16px;
+    padding: 22px 0 20px 0;
+    margin-top: 65px;
+}
+.top-text h1 {
+    font-size: 35px;
+}
+.top-text p {
+    font-size: 25px;
+}
+/*palat end*/
+/*booking start*/
+
+.sotin {
+    margin-top: 40px;
+}
+/*booking end*/
+/*new menu start*/
+.menu-bg {
+    padding-top: 180px;
+    padding-bottom: 205px;
+}
+/*new menu end*/
+
+/*discover starat*/
+.top-img-dis {
+    padding-top: 455px;
+}
+.discover-card h4 {
+    font-size: 18px;
+}
+/*discover end*/
+/*---------*/
+}/*sm-end*/
+/*---------*/
+
+                /*md*/
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*header start*/
+.wraper a {
+    font-size: 18px;
+}
+.header-logo {
+    margin-top: 115px;
+    margin-bottom: 90px;
+}
+.header-logo h1 {
+    letter-spacing: -1px;
+    word-spacing: -1px;
+    margin-top: 42px;
+    font-size: 27px;
+}
+.header-logo h2 {
+    word-spacing: -3px;
+    letter-spacing: 6px;
+    font-size: 26px;
+}
+.header-logo button {
+    margin-top: 35px;
+    font-size: 23px;
+}
+/*header end*/
+
+/*cook start*/
+.cook-text {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.cook-text h2 {
+    font-size: 26px;
+}
+.cook-text p {
+    font-size: 15px;
+}
+
+/*cook end*/
+/*palat start*/
+.top-text {
+    margin: 5px;
+    margin-bottom: -16px;
+    padding: 29px 0 30px 0;
+    margin-top: 65px;
+}
+.top-text h1 {
+    font-size: 30px;
+}
+.top-text p {
+    color: white;
+    font-size: 20px;
+}
+/*palat end*/
+/*new menu start*/
+.menu-pric-item img {
+    width: 67px;
+    margin-top: 14px;
+}
+.menu-pric-item p {
+    font-size: 14px;
+}
+/*new menu end*/
+
+/*booking start*/
+.gum {
+    display: none;
+}
+.sotin {
+    margin-top: 40px;
+    margin-left: -10px;
+}
+/*booking end*/
+/*discover starat*/
+.top-img-dis {
+    padding-top: 455px;
+}
+.discover-card h4 {
+    font-size: 15px;
+}
+.discover-card p {
+    font-size: 12px;
+    margin-bottom: 7px;
+}
+/*discover end*/
+
+/*comination start*/
+.cominecation-text p {
+    font-size: 14px;
+}
+.cominecation-text h2 {
+    font-size: 29px;
+}
+.cominecation-text li {
+    height: 30px;
+    width: 31px;
+}
+.cominecation-text i {
+    font-size: 23px;
+}
+/*comination start*/
+/*footer start*/
+.footer-about {
+    margin-bottom: -50px;
+    margin-top: -30px;
+}
+/*---------*/
+}/*md-end*/
+/*---------*/
+                /*lg*/
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+
+/*booking start*/
+.gum {
+    display: none;
+}
+.all-input {
+    margin-left: -64px;
+}
+/*new menu start*/
+.menu-bg {
+    padding-top: 190px;
+    padding-bottom: 187px;
+}
+
+
+
+/*booking end*/
+/*---------*/
+}/*lg-end*/
+/*---------*/
+                /*xl*/
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+/*header start*/
+.wraper li {
+    margin: 0px 134px 0px 119px;
+}
+.wraper ul li:hover {
+     padding-left: 0px; 
+}
+.wraper ul li a {
+    font-size: 22px;
+    margin-left: 0px;
+}
+
+.wraper ul {
+         width: unset; 
+}
+/*header end*/
+/*banar start*/
+.header-logo {
+    margin-bottom: 220px;
+    text-align: center;
+    margin-top: 170px;
+}
+.header-logo img {
+    width: 185px;
+}
+.header-logo h1 {
+    letter-spacing: -2px;
+    word-spacing: 7px;
+    margin-top: 82px;
+    font-size: 48px;
+}
+.header-logo h2 {
+    word-spacing: 25px;
+    letter-spacing: 6px;
+    font-size: 49px;
+}
+.header-logo button {
+    margin-top: 191px;
+    font-size: 48px;
+}
+/*banar end*/
+/*cock start*/
+.cook-text h2 {
+    font-size: 40px;
+}
+.cook-text p {
+    font-size: 21px;
+}
+/*cock end*/
+/*test start*/
+.all-text h1 {
+    font-size: 40px;
+}
+.all-text p {
+    color: white;
+    font-size: 20px;
+}
+/*test end*/
+
+/*plat start*/
+.top-text {
+    margin: 15px;
+    margin-bottom: -16px;
+    padding: 50px 0 40px 0;
+    margin-top: 65px;
+}
+.top-text p {
+    font-size: 40px;
+}
+.top-text h1 {
+    font-size: 60px;
+}
+/*plat start*/
+/*simple start*/
+.simple-all-text h3 {
+    font-size: 36px;
+}
+.simple-all-text p {
+    font-size: 27px;
+}
+.simple-all-text img {
+    width: 31px;
+}
+
+/*simple end*/
+/*new ment start*/
+.menu-bg {
+    padding-top: 428px;
+    padding-bottom: 700px;
+}
+.menu-pric-item img {
+    width: 100px;
+}
+.menu-pric-item h3 {
+    font-size: 35px;
+}
+.menu-pric-item p {
+    font-size: 18px;
+}
+/*new ment end*/
+
+
+
+/*booking start*/
+.gum {
+    display: none;
+}
+.all-input {
+        margin-left: -105px;
+}
+.all-input input, select {
+    width: 275px;
+    padding: 7px;
+    font-size: 20px;
+}
+.all-input p {
+    font-size: 20px;
+        margin-top: 40px;
+}
+.top {
+    margin-top: 55px;
+}
+/*booking end*/
+
+/*discover start*/
+.discover-top-text h1 {
+    font-size: 65px;
+}
+.discover-top-text p {
+    font-size: 55px;
+}
+.discover-card h4 {
+    font-size: 25px;
+}
+.discover-card p {
+    font-size: 22px;
+}
+.discover-card a {
+    font-size: 16px;
+}
+/*discover end*/
+/*comination start*/
+.cominecation-text p {
+    font-size: 21px;
+}
+.cominecation-text h2 {
+    font-size: 40px;
+}
+.cominecation-text li {
+    height: 50px;
+    width: 50px;
+}
+.cominecation-text i {
+       font-size: 39px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+/*comination start*/
+/*footer start*/
+.footer-text h4 {
+    font-size: 25px;
+}
+.footer-text a , p {
+    font-size: 22px;
+}
+/*---------*/
+}/*xl-end*/
+/*---------*/
